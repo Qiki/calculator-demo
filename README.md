@@ -1,3 +1,4 @@
 # calculator-demo
 
-![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/2540791/51447882-2fbaa280-1cf0-11e9-9401-41f81e85d6f1.gif)
+![calculator-final-demo](https://user-images.githubusercontent.com/2540791/51448387-6a263e80-1cf4-11e9-9291-613253e9f111.gif)
+
